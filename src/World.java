@@ -14,10 +14,12 @@ public class World implements Comparable<World>{
         population = pop;
     }
 
+    //Implement the toString method
     public String toString(){
         return String.valueOf(population);
     }
 
+    //Implement the equal method
     @Override
     public boolean equals(Object obj){
         if(this == obj) return true;
@@ -28,6 +30,7 @@ public class World implements Comparable<World>{
         population == temp.population);
     }
 
+    //Implements the compareTo method
     @Override
     public int compareTo(World obj){
         return(Long.compare(population, obj.population));

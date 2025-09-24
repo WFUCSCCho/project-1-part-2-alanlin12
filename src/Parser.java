@@ -1,3 +1,9 @@
+////∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*
+//∗ @file: Parser.java
+//∗ @description: This program will parse through input.txt and world.csv, read in and clean up the commands to be used for BST Operations
+//∗ @author: Alan Lin
+//∗ @date: September 24, 2025
+///∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗
 import java.io.*;
 import java.util.*;
 
