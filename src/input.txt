@@ -1,25 +1,50 @@
-
-insert 111
-             insert 23
-
-insert 99
-insert         4
-
-isEmpty
-
-    insert     111
-
+remove 1840
 print
-
-
-search 9
-
-remove 23
-
-remove 4
-remove 999999
-isEmptyasfh
+search 1867
+remove 1955
+remove 1960
+search 1990
+insert 1940
 print
-
-insert 123
+search 1828
+remove 1928
+insert 1923
+remove 2002
+print
+remove 1989
+insert 1829
+print
+search 1896
+remove 1847
+insert 1865
+search 1837
+remove 1827
+search 2014
+insert 1926
+remove 1932
+search 1877
+print
+remove 1940
+remove 2013
+print
+remove 1986
+remove 1891
+remove 1995
+search 1910
+print
+remove 1992
+search 2020
+insert 1940
+search 2018
+remove 1872
+print
+remove 1919
+remove 1942
+insert 1937
+insert 2014
+insert 1866
+insert 1937
+insert 1919
+insert 1941
+search 1857
 print
